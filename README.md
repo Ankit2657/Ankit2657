@@ -79,6 +79,7 @@
 </div>
 
 
+## My Contribution snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ankit2657/Ankit2657/output/github-snake-dark.svg" />
@@ -87,6 +88,7 @@
 </picture>
 
 
+## My Contribution Graph
 
 
 <div align="center">
@@ -96,9 +98,8 @@
 </div>
 
 
-## My Contribution snake
 
-![Snake animation](https://raw.githubusercontent.com/Ankit2657/Ankit2657/output/github-contribution-grid-snake-dark.svg)
+
 
 
 </div>
